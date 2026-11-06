@@ -1,0 +1,18 @@
+# Database credentials
+/config/database.php
+.env
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Logs
+*.log
+
+# IDE
+/.idea/
+/.vscode/
+
+# Temporary files
+*.tmp
+*.bak
